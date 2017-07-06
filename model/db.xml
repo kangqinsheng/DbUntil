@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<database isstart="1">
+		<host>mysql:host=localhost;dbname=kaoshi</host>
+		<name>root</name>
+		<pass></pass>
+	</database>
+	<database isstart="0">
+		<host>"orecal"</host>
+		<name>"root1"</name>
+		<pass>"sadas"</pass>
+	</database>
+	<database isstart="0">
+		<host>"sadfdfad"</host>
+		<name>"asdsa"</name>
+		<pass>"ass"</pass>
+	</database>
+</root>
